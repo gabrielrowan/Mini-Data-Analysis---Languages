@@ -17,7 +17,7 @@ This `.csv' file is then imported into Jupyter Notebooks and analysed for insigh
 
 ## Files
 
-** To view the data analysis including charts, click on the `Languages_analysis.ipynb` file
+**To view the data analysis including charts, click on the `Languages_analysis.ipynb` file**
 
 - `get_html.py` - retrieves the html from the wikipedia web page
 - `languages_html.txt` - the html output file of `get_html.py`
