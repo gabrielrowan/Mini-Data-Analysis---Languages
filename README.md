@@ -2,7 +2,7 @@
 
 ## Intro
 
-This project web scrapes the table of the most commonly spoken languages from this Wikipedia page: 
+This project web scrapes the table of the most commonly spoken languages from this Wikipedia page using BeautifulSoup: 
 https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers
 
 It parses the html and outputs the relevant table data to a `.csv` file. 
