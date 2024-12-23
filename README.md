@@ -41,4 +41,10 @@ Here are the list of questions I answered through analysing the file with python
 9) What percentage of total native speakers is represented by the top 5 languages?
 10) Which branch has the most native speakers, and which has the least?
 
+Answers can be found in the `languages_analysis.ipynb` file
+
+## Final Words
+
+Project completed December 2024 by Gabriel Rowan :smiley_cat:
+
     
