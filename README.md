@@ -28,7 +28,7 @@ This `.csv' file is then imported into Jupyter Notebooks and analysed for insigh
 
 ## Data Analysis extract
 
-Display a bar chart of the native speakers of all Romance and Germanic languages
+Bar chart of the native speakers of all Romance and Germanic languages
 
 ![bar chart - romance and germanic languages](https://github.com/user-attachments/assets/e9d83550-a91e-4aab-aadc-fc88c5a2b7c7)
 
