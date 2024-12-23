@@ -25,4 +25,4 @@ for row in table_data[1:]:
     df.loc[len(df)] = row_data_txt 
 
 
-df.to_csv(r'output.csv', index=False, encoding='utf-8-sig')
+df.to_csv(r'languages_wiki.csv', index=False, encoding='utf-8-sig')
