@@ -26,6 +26,12 @@ This `.csv' file is then imported into Jupyter Notebooks and analysed for insigh
 - `Languages_analysis.ipynb` - the Jupyter Notebook containing the data analysis of the `.csv` file
 - `Analyse.py` - a draft of the questions I wanted to answer using this dataset
 
+## Data Analysis extract
+
+Display a bar chart of the native speakers of all Romance and Germanic languages
+
+![bar chart - romance and germanic languages](https://github.com/user-attachments/assets/e9d83550-a91e-4aab-aadc-fc88c5a2b7c7)
+
 ## Questions for Data Analysis
 
 Here are the list of questions I answered through analysing the file with python's pandas:
