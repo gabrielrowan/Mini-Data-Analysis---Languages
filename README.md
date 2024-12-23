@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers
 
 It parses the html and outputs the relevant table data to a `.csv` file. 
 
-This `.csv' file is then imported into Jupyter Notebooks and analysed for insights 
+This `.csv` file is then imported into Jupyter Notebooks and analysed for insights 
 
 ## Technologies used 
 
